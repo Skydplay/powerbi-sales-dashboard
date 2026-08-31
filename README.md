@@ -43,3 +43,5 @@ Built as part of my Business Intelligence portfolio / skill development in Data 
    - Created trend charts and categorical breakdowns.
    - Added interactive slicers (Date range, Product category, Region) for dynamic filtering.
 
+<img width="2559" height="1357" alt="image" src="https://github.com/user-attachments/assets/9edb5c0c-9246-4771-a8bc-955ae0b9d2dc" />
+<img width="2559" height="1358" alt="image" src="https://github.com/user-attachments/assets/84f6b430-8182-4315-aba0-e5b3d130cd60" />
